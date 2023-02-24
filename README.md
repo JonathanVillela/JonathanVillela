@@ -1,6 +1,6 @@
 Hi and thanks for being here!
 
-I am a self-taught developer, happily learning more each day. I aim to not only succeed within as a software engineer, but to also marry my training as an educator and artist with my technical abilities as they formulate. 
+I am a self-taught developer, happily learning more each day. I aim to not only succeed within as a software engineer, but to also marry my training as an educator and artist to my technical abilities as they formulate. 
 
 Working Skills: JavaScript, React JS, CSS, HTML.
 
